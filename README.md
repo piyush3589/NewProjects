@@ -26,6 +26,10 @@ All projects use **Python**, **pandas**, **NumPy**, and other libraries to handl
 - Compare datasets from multiple vendors and detect mismatched claims
 - Ensure data integrity before ingestion
 - Skills: Python, pandas, data validation, vendor data comparison
+### **Project 5: SQL-Based Data Quality Checks**
+- Perform data quality checks using SQL queries in Python
+- Detect anomalies, missing IDs, and outliers in claims data
+- Skills: Python, pandas, pandasql, SQL
 
 
 
