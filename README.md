@@ -40,7 +40,7 @@ All projects use **Python**, **pandas**, **NumPy**, and other libraries to handl
 - Python (pandas, NumPy, matplotlib, seaborn)  
 - SQL Queries and Data Analysis  
 - Data Visualization & Reporting  
-- Machine Learning for Anomaly Detection  
+ 
 
 ---
 
