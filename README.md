@@ -29,7 +29,7 @@ All projects use **Python**, **pandas**, **NumPy**, and other libraries to handl
 ### **Project 5: SQL-Based Data Quality Checks**
 - Perform data quality checks using SQL queries in Python
 - Detect anomalies, missing IDs, and outliers in claims data
-- Skills: Python, pandas, pandasql, SQL
+- Skills: Python, pandas, SQL
 
 
 
