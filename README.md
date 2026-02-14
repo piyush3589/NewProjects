@@ -1,4 +1,4 @@
-# Norstella Healthcare Data Portfolio
+#  Healthcare Projects Portfolio
 
 This repository contains 4 projects 
 All projects use **Python**, **pandas**, **NumPy**, and other libraries to handle **EMR, Claims, and Lab datasets** with realistic structures, anomalies, and validations.
