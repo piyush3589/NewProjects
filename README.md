@@ -1,6 +1,6 @@
 # Norstella Healthcare Data Portfolio
 
-This repository contains 4 projects simulating **real-world healthcare data tasks**, aligned with the Norstella Data Quality Control Specialist role.  
+This repository contains 4 projects 
 All projects use **Python**, **pandas**, **NumPy**, and other libraries to handle **EMR, Claims, and Lab datasets** with realistic structures, anomalies, and validations.
 
 ---
